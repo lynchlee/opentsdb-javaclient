@@ -1,0 +1,10 @@
+language: java
+script: ./gradlew clean build
+jdk:
+  - oraclejdk8
+notifications:
+    email:
+      recipients:
+        - lynch.lee9527@gmail.com
+      on_success: always
+      on_failure: always
