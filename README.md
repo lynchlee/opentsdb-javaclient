@@ -5,8 +5,8 @@
 
 #### What is this?
 
-A simple java client used to read data from HBase `tsdb` table with [OpenTSDB](https://github.com/OpenTSDB/opentsdb).
+A simple java client used to read data from HBase table named `tsdb` of [OpenTSDB](https://github.com/OpenTSDB/opentsdb).
 
 #### What does this do?
 
-Query metrics datapoints from HBase with components of OpenTSDB.
+Query metrics datapoints from Storage "HBase" of OpenTSDB.
